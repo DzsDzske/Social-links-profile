@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://social-links-profile-one.vercel.app/)
+- Live Site URL: [Live Site URL](https://social-links-profile-one.vercel.app/)
 
 ## My process
 
